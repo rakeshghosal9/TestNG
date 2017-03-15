@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SampleTestNG" duration-ms="29" started-at="2017-03-15T22:27:51Z" finished-at="2017-03-15T22:27:51Z">
+    <groups>
+    </groups>
+    <test name="order" duration-ms="29" started-at="2017-03-15T22:27:51Z" finished-at="2017-03-15T22:27:51Z">
+      <class name="mypackage.Test1">
+        <test-method status="PASS" signature="sampleTest1()[pri:0, instance:mypackage.Test1@4ca8195f]" name="sampleTest1" duration-ms="6" started-at="2017-03-15T16:27:51Z" finished-at="2017-03-15T16:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest1 -->
+      </class> <!-- mypackage.Test1 -->
+      <class name="mypackage.Test3">
+        <test-method status="PASS" signature="sampleTest3()[pri:0, instance:mypackage.Test3@768debd]" name="sampleTest3" duration-ms="0" started-at="2017-03-15T16:27:51Z" finished-at="2017-03-15T16:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest3 -->
+      </class> <!-- mypackage.Test3 -->
+      <class name="mypackage.Test2">
+        <test-method status="PASS" signature="sampleTest2()[pri:0, instance:mypackage.Test2@b065c63]" name="sampleTest2" duration-ms="1" started-at="2017-03-15T16:27:51Z" finished-at="2017-03-15T16:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest2 -->
+      </class> <!-- mypackage.Test2 -->
+    </test> <!-- order -->
+  </suite> <!-- SampleTestNG -->
+</testng-results>
