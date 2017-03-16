@@ -7,6 +7,7 @@
 			<class name="mypackage.Test1" />
 			<class name="mypackage.Test2" />
 			<class name="mypackage.Test3" />
+			<class name="mypackage.Test4" />
 			
 			
 		</classes>
